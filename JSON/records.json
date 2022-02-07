@@ -1,0 +1,12 @@
+{"customers":[
+    {"id":1, "name":"Rinku", "contact":9078563412, "member":2, "address":"Kolkata","gender":"F"},
+    {"id":2, "name":"Pinku", "contact":7856345623, "member":18, "address":"Delhi","gender":"M"},
+    {"id":3, "name":"Tinku", "contact":7890563412, "member":17, "address":"Bangalore","gender":"M"},
+    {"id":4, "name":"Chinku", "contact":7856346789, "member":3, "address":"Chennai","gender":"F"},
+    {"id":5, "name":"Minku", "contact":2312456789, "member":10, "address":"Rajasthan","gender":"M"},
+    {"id":6, "name":"Shinku", "contact":8990674523,"member":7, "address":"Kolkata","gender":"M"},
+    {"id":7, "name":"Pothu", "contact":8956789023, "member":20, "address":"Sultanpur","gender":"M"},
+    {"id":8, "name":"Rothu", "contact":7856341245, "member":12, "address":"Ahmedabad","gender":"F"},
+    {"id":9, "name":"Sothu", "contact":7856341245,"member":4, "address":"Warley","gender":"F"},
+    {"id":10, "name":"Kothu", "contact":7856341289, "member":10, "address":"Madrid","gender":"M"}
+]}
